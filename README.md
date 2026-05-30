@@ -52,6 +52,7 @@ NLP is split into two eras — pre- and post-transformer. The RNN notebooks belo
 
 ## 👋 About
 
-Saman Fatima — Kaggle Legacy Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/) · [lablab.ai](https://lablab.ai/u/@safima__).
+Saman Fatima — Kaggle 
+Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/) · [lablab.ai](https://lablab.ai/u/@safima__).
 
 ⭐ if any of these were useful — and if you're red-teaming production LLMs, I'd love to compare notes.
